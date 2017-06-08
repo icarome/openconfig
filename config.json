@@ -1,0 +1,24 @@
+{
+"Android": {
+	"Apple_TV":{
+		"tela1":{ 
+			"background": "SOMAMBIENTE414x736.png",
+			"id": 500,
+			"name": "tela2",
+			"buttons": [[45, 150, 422, 65, "compactdisc.png", "/home/icaronascimento/file/Apple_TV.py", "ok", "", ""],[70, 120, 422, 70, "compactdisc.png", "/home/icaronascimento/file/Apple_TV.py", "ok", "", ""]]
+			},
+ 		"tela3":{ 
+			"background": "SOMAMBIENTE414x736.png",
+			"id": 600,
+			"name": "tela3",
+			"buttons": [[70, 150, 422, 70, "compactdisc.png", "/home/icaronascimento/file/Apple_TV.py", "ok", "", ""]]
+			}, 
+		"tela2":{ 
+			"id": 700,
+			"name": "tela2",
+			"background": "SOMAMBIENTE414x736.png",
+			"buttons": [[100, 150, 422, 100, "compactdisc.png", "/home/icaronascimento/file/Apple_TV.py", "null", "", ""]]
+			}
+		}
+	}
+}
